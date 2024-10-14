@@ -1,3 +1,4 @@
+package com.carlos.PruebasBucles;
 
 public class traza2 {
 

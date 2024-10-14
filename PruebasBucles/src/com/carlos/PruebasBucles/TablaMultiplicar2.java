@@ -1,3 +1,4 @@
+package com.carlos.PruebasBucles;
 import java.util.Scanner;
 
 public class TablaMultiplicar2 {
